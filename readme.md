@@ -4,10 +4,10 @@
 
 I am a graduate student majoring in Computer Science in Sun Yat sen University.👨‍💻‍
 
-Now I am interested in programming languages such as golang and javascript, and I am continuously learning them.🐢
+Now I am interested in Distributed Systems(like MIT 6.824 ...), and I am continuously learning them.🐢
 
 ### Find me
-
+- https://www.zhihu.com/people/yi-ba-41-66
 - https://github.com/SwordHarry
 - https://blog.csdn.net/qq_39446719
 
