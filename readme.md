@@ -12,6 +12,6 @@ Now I am interested in Distributed System and DataBase System, and I am continuo
 - https://blog.csdn.net/qq_39446719
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=SwordHarry&show_icons=true" style="float: left;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SwordHarry&layout=compact&langs_count=6" style="float: right;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=SwordHarry&show_icons=true" style="float: left;width: 40%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SwordHarry&layout=compact&langs_count=6" style="float: right;width: 40%;"/>
 </div>
