@@ -2,7 +2,7 @@
 
 #### About SwordHarry
 
-I am a graduate student majoring in Computer Science in Sun Yat sen University.👨‍💻‍
+I am a master student majoring in Computer Science in Sun Yat sen University.👨‍💻‍
 
 Now I am interested in Distributed System and DataBase System, and I am continuously learning them.🐢
 
