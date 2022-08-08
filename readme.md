@@ -4,7 +4,7 @@
 
 - a master student majoring in Computer Science in Sun Yat sen University.👨‍💻‍
 
-- an intern of ByteDance, responsible for traffic architecture, specifically multi-tenancy and unitization.![image](https://user-images.githubusercontent.com/34940617/183462757-f938e445-684a-4b24-a5c7-8f5c2d95f9eb.png)
+- an intern of ByteDance, responsible for traffic architecture, specifically multi-tenancy and unitization.<img src=https://img-blog.csdnimg.cn/20200822014538211.png width=60% float="left"/>
 
 
 
